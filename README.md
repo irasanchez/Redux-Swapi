@@ -1,5 +1,7 @@
 # Redux Swapi
 
+---
+
 ## Topics
 
 - Middleware and applyMiddleware
